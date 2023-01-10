@@ -68,7 +68,13 @@ button:hover{
 }
 
 
+.positivo{
+    color: #008000;
+}
 
+.negativo{
+    color: #FF0000;
+}
 
 
 
