@@ -1,4 +1,4 @@
 <h1> Counter-App!</h1>
 
 <h2>Proyecto guía</h2>
-[counter](https://user-images.githubusercontent.com/94869227/211625213-9d7df61d-b3b8-4a9b-bce7-d74bf6ea24f7.png)
+![counter](https://user-images.githubusercontent.com/94869227/211625577-a7dab4b5-2f7d-4271-80d3-4b8188246748.png)
