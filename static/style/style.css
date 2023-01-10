@@ -28,7 +28,7 @@ h1{
     font-weight: 800;
 }
 
-p{
+main p{
     font-size: 7.5rem;
     font-weight: 400;
     margin: 1rem 0;
@@ -67,13 +67,31 @@ button:hover{
 
 }
 
-
 .positivo{
     color: #008000;
 }
 
 .negativo{
     color: #FF0000;
+}
+
+
+footer{
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 50px;
+}
+
+footer p{
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+footer  p a{
+    color: #102B42;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: 700;
 }
 
 
